@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=liquid
+Description=display phyOS logo and liquid style loader
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/liquid
+ScriptFile=/usr/share/plymouth/themes/liquid/liquid.script
+UseFirmwareBackground=false
